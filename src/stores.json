@@ -3,8 +3,8 @@
     "features": [{
             "geometry": {
                 "type": "Point",
-                "coordinates": [-0.1428115,
-                    51.5125168
+                "coordinates": [22.5666700,
+                    51.2500000
                 ]
             },
             "type": "Feature",
@@ -12,7 +12,7 @@
                 "category": "patisserie",
                 "hours": "10am - 6pm",
                 "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Mayfair",
+                "name": "Josie's Patisserie Lublin",
                 "phone": "+44 20 1234 5678",
                 "storeid": "01"
             }
@@ -20,8 +20,8 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-2.579623,
-                    51.452251
+                "coordinates": [22.6962100,
+                    51.2189800 
                 ]
             },
             "type": "Feature",
@@ -29,7 +29,7 @@
                 "category": "patisserie",
                 "hours": "10am - 6pm",
                 "description": "Come and try our award-winning cakes and pastries. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Bristol",
+                "name": "Josie's Patisserie Świdnik",
                 "phone": "+44 117 121 2121",
                 "storeid": "02"
             }
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.273459,
-                    52.638072
+                    22.460000,
+                    51.227778
                 ]
             },
             "type": "Feature",
@@ -47,7 +47,7 @@
                 "category": "patisserie",
                 "hours": "10am - 6pm",
                 "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Norwich",
+                "name": "Josie's Patisserie Konopnica",
                 "phone": "+44 1603 123456",
                 "storeid": "03"
             }
